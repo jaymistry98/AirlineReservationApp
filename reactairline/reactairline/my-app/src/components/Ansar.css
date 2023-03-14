@@ -1,0 +1,108 @@
+/*HOMEPAGE*/
+
+.maindiv{
+    /*background: linear-gradient(45deg, greenyellow, dodgerblue);*/
+    background-image: url(homeFlight.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: serif;
+
+}
+
+.tablehead {
+    font-family: serif;
+    text-align: center;
+    font-size: 28px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: darkblue;
+  }
+
+.adminformhead{
+  font-family: serif;
+    font-size: 28px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: darkblue;
+
+}
+
+  .styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 16px;
+    font-family: sans-serif;
+    min-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: black;
+    color: #ffffff;
+    text-align: centre;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid black;
+}
+
+.end {
+  font-family: serif;
+  text-align: left;
+  font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: darkblue;
+}
+
+
+
+
+/*LOGIN PAGE*/
+.body {
+    /* align-items: center; */
+    /* background-color: #000; */
+    /* display: flex; */
+    /* justify-content: center; */
+    height: 100vh;
+    font-family: serif;
+    
+    background-image: url(homeFlight.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+   
+  .loginhead {
+    font-family: serif;
+    font-size: 28px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: darkblue;
+  }
+
+  #regbody{
+    
+    background-image: url(homeFlight.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: serif;
+  }
+
+  @import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");
+  #welcome{
+    font-size: 28px;
+    font-family: "Sansita Swashed", cursive;
+  color: white;
+
+    
+  }
